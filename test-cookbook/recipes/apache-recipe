@@ -1,0 +1,4 @@
+file '/myfil2fromtestcookbook' do
+  content "Hello My World" 
+  action :create
+end
